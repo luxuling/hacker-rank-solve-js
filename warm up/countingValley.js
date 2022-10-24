@@ -1,4 +1,4 @@
-const path = "DDUUUUDD"
+const path = "UDDDUDUU"
 
 const counting = (path) => {
   let list = path.split("")
@@ -9,14 +9,12 @@ const counting = (path) => {
       upDown++
       if (upDown === 0) {
         valley++
-        // console.log(list.indexOf(item))
       }
     } else {
       upDown--
     }
-    console.log(upDown);
   });
-  // return valley
+  return valley
 }
 
 console.log(counting(path));
