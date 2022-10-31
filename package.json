@@ -1,0 +1,25 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "I made this for those of you who are looking for solutions to problems from hacker rank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxuling/hacker-rank-solve-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxuling/hacker-rank-solve-js/issues"
+  },
+  "homepage": "https://github.com/luxuling/hacker-rank-solve-js#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
